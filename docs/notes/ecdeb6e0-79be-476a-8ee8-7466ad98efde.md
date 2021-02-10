@@ -4,7 +4,7 @@ title: Dom
 desc: ''
 updated: 1609127838648
 created: 1609127838648
-parent: cdf5c6c9-f7ac-4aae-b922-343a34de1edb
+parent: c18acaaa-e204-43d2-a139-3056f659c538
 children: []
 fname: angular.input.html.element.wlasnosc.ts.operator
 hpath: angular.input.html.element.wlasnosc.ts.operator
